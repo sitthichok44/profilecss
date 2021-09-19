@@ -1,0 +1,39 @@
+body{
+    background-color: #c7c6c6;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+.table-menu td:hover {
+    background-color: #FAF1E6;
+}
+
+h1{
+    text-align: center;
+
+}
+.table-mail {
+    margin-left: center; 
+    margin-right: center;
+    background-color: #c7c6c6;
+    color: #9b8369;
+}
+.social-img ul {
+    margin: 50;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.social-img ul li{
+    background-color: rgba(204, 204, 204, 0.5);
+    padding: 10px;
+    border-radius: 0%;
+}
+.social-img ul li:hover{
+    background: #ccc;
+}

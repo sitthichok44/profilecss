@@ -1,0 +1,35 @@
+body{
+    background-color: #c7c6c6;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    font-family: Alegreya SC;
+}
+.table-menu td:hover {
+    background-color: #FAF1E6;
+}
+.top-part h1{
+    text-align: center;
+    font-family: Alegreya SC;
+}
+.top-part h2{
+    text-align:center;
+    font-family: Alegreya SC;
+    font-weight: normal;
+}
+.top-part h4{
+    text-align: center;
+    font-family: Alegreya SC;
+    font-weight: bold;
+}
+.youtube p{
+    width: 60%;
+    height: 60%;
+    text-align: center;
+}
+p{
+text-align: center;
+color: #69563f;
+}

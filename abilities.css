@@ -1,0 +1,36 @@
+body{
+    background-color: #c7c6c6 ;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    font-family: Alegreya SC;
+}
+.table-menu td:hover {
+    background-color: #FAF1E6;
+}
+
+h1{
+    text-align: center;
+    font-family: Alegreya SC;
+}
+
+h2{
+    text-align:center;
+    font-family: Alegreya SC;
+    font-weight: normal;
+}
+
+h4{
+    text-align: center;
+    font-family: Alegreya SC;
+    font-weight: bold;
+}
+
+.table-ab{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FDEFEF;
+    color: #9b8369;
+}

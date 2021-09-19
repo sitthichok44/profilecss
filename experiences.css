@@ -1,0 +1,45 @@
+body{
+    background-color: #c7c6c6;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    font-family: Alegreya SC;
+}
+h1{
+    text-align: center;
+    font-family: Alegreya SC; 
+}
+h2{
+    text-align:center;
+    font-family: Alegreya SC;
+    font-weight: normal;
+}
+h4{
+    text-align: center;
+    font-family: Alegreya SC;
+    font-weight: bold;
+}
+.name{
+    text-decoration: underline;
+    color: #9b8369;
+}
+
+/*div*/
+.table-ex {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FDEFEF;
+}
+.table-ex ul{
+    margin-right: 45%;
+    margin-left: 45%;
+    text-align: justify;
+  }
+.table-menu td:hover {
+    background-color: #FAF1E6;
+}
+.top-part{
+    background-color: #FDEFEF;
+}

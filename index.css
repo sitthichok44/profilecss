@@ -1,0 +1,95 @@
+/* CSS file --> index.html */
+/* (1) tag selector */
+
+
+        body{
+            background-color: #c7c6c6;
+        }
+        h1{
+            text-align: center;
+            font-family: cursive;
+            
+        }
+        h2{
+            text-align: center; 
+            font-family: cursive;
+            font-weight: bold;
+            
+        }
+        h4{
+            text-align: center; 
+            font-family: Aclonica ; 
+            font-weight:normal"
+        }
+        table{
+            width: 100%;
+            text-align: center;
+
+        }
+        th{
+            width: 33.33%; 
+            vertical-align: top;
+
+        }
+        /* (2) Class selector*/
+        .p-Aboutme{
+            font-weight:normal; 
+            text-align: justify;
+        }
+        .p-name{
+            font-weight: normal;
+        }
+        .p-Footer{
+            text-align: center;
+        }
+        .name{
+            text-decoration: underline;
+            color: black;
+            background-color:#FBF4E9;
+        }
+        .githud{
+            text-decoration: underline;
+            color: #4B6587;
+            
+        }
+        .email{
+            text-emphasis: underline;
+            color: #4B6587;
+        }
+        /* (3) Id Selector*/
+        #th-Details{
+
+            text-align: left;
+
+        }
+        /* Div */
+        .top-container{
+            background-color: #c7c6c6;
+        }
+        .table-menu td:hover{
+            background-color: #FAF1E6;
+        }
+        .table-content h2{
+            background-color: #E4EFE7;
+        }
+        .table-content img:hover{
+            background-color: #FAF1E6;
+        }
+        .social-img ul{
+            margin: 0;
+            text-align: center;
+            width: 100%;
+            margin-bottom: 50px;
+        
+        }
+        .social-img ul li{
+            display: inline;
+            background-color: rgba(204, 204, 204, 0.5);
+            padding: 10px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: background 150ms ease-in-out;
+        }
+        .social-img ul li:hover{
+            background: #ccc;
+        }
